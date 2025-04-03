@@ -47,7 +47,7 @@ The self-adaptive model's performance was evaluated on the VMLU dataset and comp
 
 <h1 align="center">
   <a>
-    <img width="500" src="assets/result.jpg"></a><br>
+    <img src="assets/result.jpg"></a><br>
 <br>    
 
 
