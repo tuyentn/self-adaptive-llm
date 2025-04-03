@@ -39,41 +39,11 @@ The self-adaptive model's performance was evaluated on the VMLU dataset and comp
 
 **Average**
 
-Self-Adaptive (TRANSFORMER-SQUARED)
+<h1 align="center">
+  <a>
+    <img width="500" src="assets/result.img"></a><br>
+<br>    
 
-46.07
-
-56.35
-
-53.48
-
-48.38
-
-50.5
-
-LoRA-Adapted
-
-45.41
-
-55.66
-
-53.00
-
-47.69
-
-49.89
-
-Base Meta Llama-3-8B
-
-41.30
-
-49.86
-
-49.31
-
-46.16
-
-46.02
 
 The self-adaptive model achieved the highest average score of **50.5**, with significant improvements in Social Science (56.35) and Humanities (53.48) categories.
 
