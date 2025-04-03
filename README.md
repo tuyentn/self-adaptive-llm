@@ -5,6 +5,12 @@ Self-Adaptive LLM
 
 This repository contains the source code and resources for an experiment implementing the **TRANSFORMER-SQUARED: SELF-ADAPTIVE LLMs** method, applied to the Meta Llama-3-8B model. The fine-tuned model is available on Hugging Face at [JosephTn/transformer\_squared\_llama\_8b](https://huggingface.co/JosephTn/transformer_squared_llama_8b). The experiment was evaluated on the VMLU dataset, with results demonstrating improved performance over baseline models.
 
+<h1 align="center">
+  <a>
+    <img width="500" src="assets/cover.gif"></a><br>
+<br>    
+
+
 Table of Contents
 -----------------
 
@@ -41,7 +47,7 @@ The self-adaptive model's performance was evaluated on the VMLU dataset and comp
 
 <h1 align="center">
   <a>
-    <img width="500" src="assets/result.img"></a><br>
+    <img width="500" src="assets/result.jpg"></a><br>
 <br>    
 
 
