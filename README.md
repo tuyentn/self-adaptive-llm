@@ -133,6 +133,6 @@ Contact
 For questions or collaboration opportunities, reach out via:
 
 *   **GitHub**: [tuyentn](https://github.com/tuyentn)
-*   **Email**: \[[your-email@example.com](mailto:your-email@example.com)\] (please update with your actual email)
+*   **Email**: \[[tuyentn0101@gmail.com](mailto:tuyentn0101@gmail.com)\] (
 
 * * *
